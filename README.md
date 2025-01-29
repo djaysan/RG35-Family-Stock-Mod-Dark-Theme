@@ -22,16 +22,22 @@ Pretty easy and straightforward:
 Before flashing, take note of the drive letter (mine is dev/disk2 so i will use **disk2** in my example.
 When Balena Etcher is done flashing & verifying, Open your terminal and enter these:
 
-sudo gdisk /dev/disk7
+**sudo gdisk /dev/disk7**
 
 Then enter the commands:
 
-p to view the partition table. It should look similar to the one in the screenshot below
-x for expert mode
-e for relocating the backup data structure to the end of the disk
-w to write the changed data
-y to confirm you want to write
+**p** to view the partition table. It should look similar to the one in the screenshot below
+
+**x** for expert mode
+
+**e** for relocating the backup data structure to the end of the disk
+
+**w** to write the changed data
+
+**y** to confirm you want to write
+
 After that you can eject the disk and continue on the device.
+
 
 
 Interested in Syncthing? 
