@@ -22,8 +22,9 @@ Pretty easy and straightforward:
 Before flashing, take note of the drive letter (mine is dev/disk2 so i will use **disk2** in my example.
 When Balena Etcher is done flashing & verifying, Open your terminal and enter these:
 
-**sudo gdisk /dev/disk7**
+**sudo gdisk /dev/disk2**
 
+Press enter and it will ask for your mac user password
 Then enter the commands:
 
 **p** to view the partition table. It should look similar to the one in the screenshot below
