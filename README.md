@@ -42,4 +42,4 @@ After that you can eject the disk and continue on the device.
 
 
 Interested in Syncthing? 
-**Install SSH from here:**:
+**Read more from here:** https://github.com/djaysan/RG35xxH-Stock-Mod-Os-SSH-Syncthing
