@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: felcm-a9nsu
+created: 2025-02-01T20:32:30+01:00
